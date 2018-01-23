@@ -1,7 +1,7 @@
 Basic Beer Chili
 ================
 
-This is my brother's beer chili recipe for a while back. It won't win any
+This is my brother's beer chili recipe from a while back. It won't win any
 awards, but like all chili recipes it should be considered as a starting
 point for making your own recipe. I suggest "kicking it up a notch".
 
